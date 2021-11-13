@@ -1,0 +1,7 @@
+public class hello{
+String flower = "rose"
+public static void main{
+hello d =new hello()
+system.out.println(d.flower);
+}
+}
